@@ -19,8 +19,11 @@ Processing permite compilar el programa y generar un archivo ejecutabble java. H
 
 Por hacer:
 -Completar la documentación.
+
 -Añadir módulo de comunicaciones para probar el resultado directamente en la panatalla del shield.
+
 -Mejorar el formato de la pantalla.
+
 -Comentar el programa adecuadamente.
 
 
